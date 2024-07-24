@@ -1,9 +1,9 @@
-# Hello All! Wlecome to my GitHub! 😄
-## WHo am I? 🤔 
+# Hello All! Welcome to my GitHub! 😄
+## Who am I? 🤔 
 Hello Again! I'm Avion Smith, a Newly begun devloper by day and a aspiring code ninja by night. When I'm not writing elegant code, you can find me debugging my lifes decisions and refactoring my daily routines.
 
 ## What Do I do? 💻
-By Day, I"m a aspiring Sofware engineer (student) with 1 year of experience in Software devolpment. By night, I embark on epic coding adventurues, Slaying bugs and conjuring up new features. My superpowers Includes:
+By Day, I"m a aspiring Sofware engineer (student) with 1 year of experience in Software devolpment. By night, I embark on epic coding adventurues, Slaying bugs and conjuring up new features. My superpowers Include:
 
 - **Python**: Building very usefull applications like Shoe Store Scrubbers (True Story, first project, don't ask).
 - **Git**: Committing to code like I wish I could commit to my diet.
@@ -21,4 +21,4 @@ Here are some of my favorite projects:
 ## Lets Connect! 🌐
 If you've read this far, you're either very interested or very bored. Either wa, feel free to check out my work and connect with me, ZIPPJARR!:
 - **LinkedIn**: (In the Works) 
-- **Email**:AKiree.smith@outlook.com (mailto:AKiree.smith@outlook.com)
+- **Email**:aKiree.smith@outlook.com (mailto:aKiree.smith@outlook.com)
